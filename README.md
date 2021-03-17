@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- :hammer_and_pick: C++ Qt / Qml Markdown.
 
 
 
-<details>
 
-<summary>My GitHub Stats</summary>
 
 ![Hokori's github stats](https://github-readme-stats.vercel.app/api?username=lingxd&theme=vue&show_icons=true)
 
-</details>
+
+
 
 ###### 💾 EOF
