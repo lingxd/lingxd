@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center">
+  <a href="https://github.com/lingxd">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lingxd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues"/>
+  </a>
+</p>
