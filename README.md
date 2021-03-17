@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi ，I‘m Hokori 👋
 
 <!--
 **lingxd/lingxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center">
-  <a href="https://github.com/lingxd">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lingxd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues"/>
-  </a>
-</p>
+
+
+<details>
+
+<summary>My GitHub Stats</summary>
+
+![Hokori's github stats](https://github-readme-stats.vercel.app/api?username=lingxd&theme=vue&show_icons=true)
+
+</details>
+
+###### 💾 EOF
