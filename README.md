@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 - :hammer_and_pick: C++ Qt / Qml Markdown.
 - 🔭 I’m currently working on Shenzhen.
-- 🌱 I’m currently learning ROS2 and Qt.
 - 💬 This is my [blog](https://www.cnblogs.com/hokori/).
 
 
