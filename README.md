@@ -16,7 +16,7 @@
 Here are some ideas to get you started:
 
 
-- :hammer_and_pick: C++ Qt / Qml Markdown.
+- :hammer_and_pick: C++ Qt Markdown rxcpp.
 - 🔭 I’m currently working on Shenzhen.
 - 💬 This is my [blog](https://www.cnblogs.com/hokori/).
 
