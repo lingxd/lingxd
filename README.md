@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ![Hokori's github stats](https://github-readme-stats.vercel.app/api?username=lingxd&theme=vue&show_icons=true)
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22m88iaqfd2lqwznaklrmtf87&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
 ###### 💾 EOF
