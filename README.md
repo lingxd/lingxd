@@ -12,13 +12,14 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💬 This is my [blog](https://www.cnblogs.com/hokori/).
 -->
 Here are some ideas to get you started:
 
 
-- :hammer_and_pick: C++ Qt Markdown rxcpp.
-- 🔭 I’m currently working on Shenzhen.
-- 💬 This is my [blog](https://www.cnblogs.com/hokori/).
+- :hammer_and_pick: C++ Qt Markdown arm-linux.
+- 🔭 I'm currently working on Shenzhen.
+- 💬 welcome
 
 
 ![Hokori's github stats](https://github-readme-stats.vercel.app/api?username=lingxd&theme=vue&show_icons=true)
